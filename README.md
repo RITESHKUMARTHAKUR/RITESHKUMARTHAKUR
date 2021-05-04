@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @RITESHKUMARTHAKUR
+- 👀 I’m interested PROGRAMMING AND CYBER SECURITY
+- 🌱 I’m currently learning PTYHON C , C++ and HTML
+- 💞️ I’m looking to collaborate on PYTHON PROJECTS
+- 📫 How to reach me 
+
+<!---
+RITESHKUMARTHAKUR/RITESHKUMARTHAKUR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
