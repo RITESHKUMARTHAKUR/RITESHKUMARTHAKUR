@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RITESHKUMARTHAKUR
+- 👋 Hi, I’m @RITESHTHAKUR
 - 👀 I’m interested PROGRAMMING AND CYBER SECURITY
 - 🌱 I’m currently learning PTYHON C , C++ and HTML
 - 💞️ I’m looking to collaborate on C & C++ projects
