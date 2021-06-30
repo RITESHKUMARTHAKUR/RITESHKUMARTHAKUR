@@ -5,8 +5,8 @@
 -👀 I’m interested **PROGRAMMING AND WEB DEVELOPMENT** <br>
 -🌱 I’m currently learning C , C++ and HTML CSS <br>
 -💞️ I’m looking to collaborate on C, C++ & Web Development Projects <br>
--📫 How to reach me mail_me_at thakurram2668@gmail.com 
-
+-📫 How to reach me mail_me @ [ [<img align="center" alt="RiteshkumarThakur | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:thakurram2668@gmail.com) ] 
+<br>
 ***
 # Github Stats
 
@@ -20,4 +20,4 @@
 ### 🔗 Connect with me : <br> <br>
 [<img align="left" alt="RiteshkumarThakur | Code chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />](https://www.codechef.com/users/ritesh_2206)
 [<img align="left" alt="RiteshkumarThakur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://www.instagram.com/_ritesh._.thakur_/)
-
+[<img align="left" alt="RiteshkumarThakur | Code chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:thakurram2668@gmail.com)
