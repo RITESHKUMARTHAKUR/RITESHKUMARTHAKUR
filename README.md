@@ -1,4 +1,5 @@
-# Hi there, I'm Ritesh Kumar Thakur [Profile](https://github.com/RITESHKUMARTHAKUR)
+
+# Hi there, I'm Ritesh Kumar Thakur [Profile](https://github.com/RITESHKUMARTHAKUR)<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=RITESHKUMARTHAKUR">
 ***
 ### I'm a  Student, Programming Enthusiast, Web Developer & Programmer 
 -👋 Hi, I’m @RITESHKUMARTHAKUR <br>
