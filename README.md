@@ -1,5 +1,5 @@
 
-# Hi there, I'm Ritesh Kumar Thakur
+# Hey there, I'm Ritesh Kumar Thakur
 ***
 ### I'm a  Student, Programming Enthusiast, Web Developer & Programmer 
 -👋 Hi, I’m @RITESHKUMARTHAKUR <br>
