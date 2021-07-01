@@ -1,12 +1,13 @@
 
-# Hi there, I'm Ritesh Kumar Thakur <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=RITESHKUMARTHAKUR">
+# Hi there, I'm Ritesh Kumar Thakur
 ***
 ### I'm a  Student, Programming Enthusiast, Web Developer & Programmer 
 -👋 Hi, I’m @RITESHKUMARTHAKUR <br>
 -👀 I’m interested **PROGRAMMING AND WEB DEVELOPMENT** <br>
 -🌱 I’m currently learning C , C++ and HTML CSS <br>
 -💞️ I’m looking to collaborate on C, C++ & Web Development Projects <br>
--📫 How to reach me mail_me @ [ [<img align="center" alt="RiteshkumarThakur | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:thakurram2668@gmail.com) ] 
+-📫 How to reach me mail_me @ [ [<img align="center" alt="RiteshkumarThakur | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:thakurram2668@gmail.com) ] <br>
+-👨🏻‍💻    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=RITESHKUMARTHAKUR">
 <br>
 ***
 # Github Stats
