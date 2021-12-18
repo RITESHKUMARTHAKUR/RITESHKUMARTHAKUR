@@ -2,7 +2,7 @@
 # Hey there, I'm Ritesh Kumar Thakur
 ***
 ### I'm a  Student, Programming Enthusiast, Web Developer & Programmer 
--👋 Hi, I’m @RITESHKUMARTHAKUR <br>
+-👋 Hi, I’m RITESH KUMAR THAKUR <br>
 -👀 I’m interested **PROGRAMMING AND WEB DEVELOPMENT** <br>
 -🌱 I’m currently learning C , C++ and HTML CSS <br>
 -💞️ I’m looking to collaborate on C, C++ & Web Development Projects <br>
