@@ -4,7 +4,7 @@
 ### I'm a  Student, Programming Enthusiast, Web Developer & Programmer 
 -👋 Hi, I’m **RITESH KUMAR THAKUR** <br>
 -👀 I’m interested **PROGRAMMING AND WEB DEVELOPMENT** <br>
--🌱 I’m currently learning C , C++ and HTML CSS Javascript <br>
+-🌱 I’m currently learning C , C++ and HTML CSS and React js  <br>
 -💞️ I’m looking to collaborate on C, C++ & Web Development Projects <br>
 -📫 How to reach me mail_me @ [ [<img align="center" alt="RiteshkumarThakur | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:thakurram2668@gmail.com) ] <br>
 -👨🏻‍💻    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=RITESHKUMARTHAKUR">
