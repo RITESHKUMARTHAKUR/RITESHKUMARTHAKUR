@@ -29,11 +29,15 @@
 <img align="left" alt="React | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img align="left" alt="Npm | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img align="left" alt="Node js | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<br>
+<img align="left" alt="Node js | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/96/000000/console.png"/>
+<img align="left" alt="Node js | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+<br> 
 
-<br>  <br>
-###  Connect with me : <br> <br>
-[<img align="left" alt="RiteshkumarThakur | Code chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />](https://www.codechef.com/users/ritesh_2206)
-[<img align="left" alt="RiteshkumarThakur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://www.instagram.com/ritesh._.thakur_/)
-[<img align="left" alt="RiteshkumarThakur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RITESHK22115)
-[<img align="left" alt="RiteshkumarThakur | Code chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:thakurram2668@gmail.com)
+<!--- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg -->
+
+<br> <br>
+###  Connect with me : <br>
+[<img align="left" alt="RiteshkumarThakur | Code chef" width="35px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />](https://www.codechef.com/users/ritesh_2206)
+[<img align="left" alt="RiteshkumarThakur | Instagram" width="35px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />](https://www.instagram.com/ritesh._.thakur_/)
+[<img align="left" alt="RiteshkumarThakur | Code chef" width="35px" src="https://img.icons8.com/fluency/48/000000/codechef.png"/>](mailto:thakurram2668@gmail.com)
+[<img align="left" alt="RiteshkumarThakur | Code chef" width="35px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"/>](https://www.linkedin.com/in/ritesh-kumar-thakur-000209203/)
