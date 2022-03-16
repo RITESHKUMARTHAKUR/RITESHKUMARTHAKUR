@@ -29,7 +29,7 @@
 <img align="left" alt="React | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img align="left" alt="Npm | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img align="left" alt="Node js | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-
+<br>
 
 <br>  <br>
 ###  Connect with me : <br> <br>
