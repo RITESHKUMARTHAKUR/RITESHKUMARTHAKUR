@@ -19,7 +19,7 @@
 
 ***
 
-### 🔗 Connect with me : <br> <br>
+###  Connect with me : <br> <br>
 [<img align="left" alt="RiteshkumarThakur | Code chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />](https://www.codechef.com/users/ritesh_2206)
 [<img align="left" alt="RiteshkumarThakur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://www.instagram.com/ritesh._.thakur_/)
 [<img align="left" alt="RiteshkumarThakur | Code chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:thakurram2668@gmail.com)
