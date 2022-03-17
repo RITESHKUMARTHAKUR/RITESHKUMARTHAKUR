@@ -4,15 +4,17 @@
 ### I'm a  Student, Programming Enthusiast, Web Developer & Programmer 
 -👋 Hi, I’m **RITESH KUMAR THAKUR** <br>
 -👀 I’m interested **PROGRAMMING AND WEB DEVELOPMENT** <br>
--🌱 I’m currently learning C , C++ and HTML CSS and React js  <br>
--💞️ I’m looking to collaborate on C, C++ & Web Development Projects <br>
--📫 How to reach me mail_me @ [ [<img align="center" alt="RiteshkumarThakur | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:thakurram2668@gmail.com) ] <br>
--👨🏻‍💻    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=RITESHKUMARTHAKUR">
-<br>
+-🌱 I’m currently **Exploring C , C++ and HTML CSS and React js**  <br>
+-💞️ I’m looking to collaborate on **C, C++ & Web Development Projects** <br>
+-📫 How to reach me mail_me **@ [ [<img align="center" alt="RiteshkumarThakur | Gmail" width="30px" src="https://img.icons8.com/fluency/48/000000/gmail.png"/>](mailto:thakurram2668@gmail.com) ]** <br>
+
+
+![](https://komarev.com/ghpvc/?username=RITESHKUMARTHAKUR&label=PROFILE+VISITORS&style=plastic&color=DC143C)
+
 ***
 # Github Stats
 
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=RITESHKUMARTHAKUR&show_icons=true&theme=radical)
+![Ritesh's github stats](https://github-readme-stats.vercel.app/api?username=RITESHKUMARTHAKUR&show_icons=true&theme=radical)
 
 # Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RITESHKUMARTHAKUR&layout=compact&theme=radical)
