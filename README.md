@@ -17,6 +17,8 @@
 # Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RITESHKUMARTHAKUR&layout=compact&theme=radical)
 
+<img src="https://activity-graph.herokuapp.com/graph?username=RITESHKUMARTHAKUR&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
 ***
 ### Languages and Tools   
 <img align="left" alt="Python | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/python--v1.png" />  
@@ -32,6 +34,7 @@
 <img align="left" alt="Node js | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/96/000000/console.png"/>
 <img align="left" alt="Node js | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 <br> 
+
 
 <!--- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg -->
 
