@@ -22,6 +22,14 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=RITESHKUMARTHAKUR&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 ***
+
+###  Connect with me  <br>
+[<img align="left" alt="RiteshkumarThakur | Code chef" width="35px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />](https://www.codechef.com/users/ritesh_2206)
+[<img align="left" alt="RiteshkumarThakur | Instagram" width="35px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />](https://www.instagram.com/ritesh._.thakur_/)
+[<img align="left" alt="RiteshkumarThakur | Code chef" width="35px" src="https://img.icons8.com/fluency/48/000000/codechef.png"/>](mailto:thakurram2668@gmail.com)
+[<img align="left" alt="RiteshkumarThakur | Code chef" width="35px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"/>](https://www.linkedin.com/in/ritesh-kumar-thakur-000209203/)
+
+<br> <br>
 ### Languages and Tools   
 <img align="left" alt="Python | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/python--v1.png" />  
 <img align="left" alt="C++ | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
@@ -40,9 +48,4 @@
 
 <!--- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg -->
 
-<br> <br>
-###  Connect with me : <br>
-[<img align="left" alt="RiteshkumarThakur | Code chef" width="35px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />](https://www.codechef.com/users/ritesh_2206)
-[<img align="left" alt="RiteshkumarThakur | Instagram" width="35px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />](https://www.instagram.com/ritesh._.thakur_/)
-[<img align="left" alt="RiteshkumarThakur | Code chef" width="35px" src="https://img.icons8.com/fluency/48/000000/codechef.png"/>](mailto:thakurram2668@gmail.com)
-[<img align="left" alt="RiteshkumarThakur | Code chef" width="35px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"/>](https://www.linkedin.com/in/ritesh-kumar-thakur-000209203/)
+
