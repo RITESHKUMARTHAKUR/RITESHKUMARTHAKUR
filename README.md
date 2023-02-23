@@ -18,9 +18,7 @@
 
 # Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RITESHKUMARTHAKUR&layout=compact&theme=radical)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=RITESHKUMARTHAKUR&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
+![Ritesh github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RITESHKUMARTHAKUR&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&theme=radical&hide_border=true)
 ***
 
 ###  Connect with me  <br>
