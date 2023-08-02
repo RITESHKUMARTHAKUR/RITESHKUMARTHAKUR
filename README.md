@@ -22,9 +22,9 @@
 ***
 
 ###  Connect with me  <br>
-[<img align="left" alt="RiteshkumarThakur | Code chef" width="35px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />](https://www.codechef.com/users/ritesh_2206)
+[<img align="left" alt="RiteshkumarThakur | Code chef" width="35px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />](https://twitter.com/RITESHK22115)
 [<img align="left" alt="RiteshkumarThakur | Instagram" width="35px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />](https://www.instagram.com/ritesh._.thakur_/)
-[<img align="left" alt="RiteshkumarThakur | Code chef" width="35px" src="https://img.icons8.com/fluency/48/000000/codechef.png"/>](mailto:thakurram2668@gmail.com)
+[<img align="left" alt="RiteshkumarThakur | Code chef" width="35px" src="https://img.icons8.com/fluency/48/000000/codechef.png"/>](https://www.codechef.com/users/ritesh_2206)
 [<img align="left" alt="RiteshkumarThakur | Code chef" width="35px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"/>](https://www.linkedin.com/in/ritesh-kumar-thakur-000209203/)
 
 <br> <br>
