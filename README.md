@@ -18,9 +18,9 @@
 
 # Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RITESHKUMARTHAKUR&layout=compact&theme=radical)
-<!---
+
 [![Ritesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RITESHKUMARTHAKUR&bg_color=141321&color=FE428E&line=A9FEF7&point=FE428E&theme=radical&hide_border=true)](https://github.com/RITESHKUMARTHAKUR)
---->
+
 ***
 
 ###  Connect with me  <br>
