@@ -1,6 +1,6 @@
 
 # Hey there, I'm Ritesh Kumar Thakur
- I'm an Enthusiastic full-stack developer skilled in React, Python, Node.js, Express.js, and RESTful APIs. Passionate about building scalable web apps and solving real-world problems.
+### I'm an Enthusiastic full-stack developer skilled in React, Python, Node.js, Express.js, and RESTful APIs. Passionate about building scalable web apps and solving real-world problems.
 ***
 -👋 Hi, I’m **RITESH KUMAR THAKUR** <br>
 -👀 I’m interested **PROGRAMMING AND WEB DEVELOPMENT** <br>
