@@ -1,10 +1,10 @@
 
 # Hey there, I'm Ritesh Kumar Thakur
 ***
-### I'm a  Student, Programming Enthusiast, Web Developer & Programmer 
+### I'm a  Graduate, Programming Enthusiast, Web Developer & Programmer 
 -👋 Hi, I’m **RITESH KUMAR THAKUR** <br>
 -👀 I’m interested **PROGRAMMING AND WEB DEVELOPMENT** <br>
--🌱 I’m currently **Exploring C , C++ and HTML CSS and React js**  <br>
+-🌱 I’m currently **Exploring HTML CSS JAVASCRIPT, C++ and React js**  <br>
 -💞️ I’m looking to collaborate on **C, C++ & Web Development Projects** <br>
 -📫 How to reach me mail_me **@ [ [<img align="center" alt="RiteshkumarThakur | Gmail" width="30px" src="https://img.icons8.com/fluency/48/000000/gmail.png"/>](mailto:thakurram2668@gmail.com) ]** <br>
 
